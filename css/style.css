@@ -1,0 +1,54 @@
+.container a img {
+  width: 25px;
+  margin-right: 10px;
+}
+
+#navbarNav ul li a {
+  font-weight: bold;
+  transition: 0.4s;
+  border-radius: 5px;
+}
+
+#navbarNav ul li a:hover {
+  background-color: #050505;
+  color: white;
+}
+
+#navbarNav ul li a:active {
+  color: rgb(238, 15, 15);
+}
+
+.jumbotron {
+  margin-top: 60px;
+  padding-top: 3rem;
+  background-color: #e2eefe;
+}
+
+.container hr {
+  display: inline-block;
+  min-width: 300px;
+  border: 2px solid black;
+}
+
+/* galery */
+
+#slide {
+  margin-top: 15px;
+}
+
+.galeri {
+  background-color: #e2eefe;
+}
+.galeri img {
+  width: 200px;
+}
+
+.carousel-inner img {
+  max-height: 400px;
+}
+
+/* Footer */
+footer {
+  background-color: #0099ff;
+}
+ */
